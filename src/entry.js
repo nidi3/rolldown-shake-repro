@@ -1,8 +1,3 @@
-import {
-  ComboboxRoot,
-  ComboboxInput,
-  ComboboxContent,
-  ComboboxItem,
-} from "radix-vue";
+import { ComboboxRoot } from 'radix-vue';
 
-globalThis.__keepLive = { ComboboxRoot, ComboboxInput, ComboboxContent, ComboboxItem };
+globalThis.__keepLive = {ComboboxRoot};

@@ -1,6 +1,5 @@
 {
   "name": "rolldown-shake-repro",
-  "private": true,
   "type": "module",
   "scripts": {
     "rollup": "rollup -c",
